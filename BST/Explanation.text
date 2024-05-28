@@ -1,0 +1,14 @@
+# Binary Search Tree (BST) Implementation in C
+
+This repository contains a simple implementation of a Binary Search Tree (BST) in C.
+The program supports basic operations such as insertion, deletion, searching, and traversals
+(inorder, preorder, and postorder).
+
+## Features
+
+- Insert a node into the BST
+- Delete a node from the BST
+- Search for a value in the BST
+- Inorder traversal
+- Preorder traversal
+- Postorder traversal
