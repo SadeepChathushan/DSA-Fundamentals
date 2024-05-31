@@ -1,0 +1,67 @@
+*****Overview*****
+
+This program performs various operations on a singly linked list.
+The operations include creating a node, displaying the list,
+inserting nodes at different positions, and deleting nodes from different positions.
+
+*****Functions*****
+
+1. void create()
+Purpose: Creates a new node and appends it to the end of the linked list.
+Input: User inputs the data value for the new node.
+Output: A new node is added to the end of the list.
+
+2. void display()
+Purpose: Displays all the elements of the linked list.
+Input: None.
+Output: Prints the data values of all nodes in the list.
+
+3. void insert_begin()
+Purpose: Inserts a new node at the beginning of the linked list.
+Input: User inputs the data value for the new node.
+Output: A new node is added at the beginning of the list.
+
+4. void insert_end()
+Purpose: Inserts a new node at the end of the linked list.
+Input: User inputs the data value for the new node.
+Output: A new node is added at the end of the list.
+
+5. void insert_pos()
+Purpose: Inserts a new node at a specified position in the linked list.
+Input: User inputs the position and the data value for the new node.
+Output: A new node is added at the specified position in the list.
+
+6. void delete_begin()
+Purpose: Deletes the node at the beginning of the linked list.
+Input: None.
+Output: The first node is removed from the list, and its data value is printed.
+
+7. void delete_end()
+Purpose: Deletes the node at the end of the linked list.
+Input: None.
+Output: The last node is removed from the list, and its data value is printed.
+
+8. void delete_pos()
+Purpose: Deletes the node at a specified position in the linked list.
+Input: User inputs the position of the node to be deleted.
+Output: The node at the specified position is removed from the list, and its data value is printed.
+
+*****Menu*****
+
+The program displays a menu with the following options:
+
+Create
+Display
+Insert at the beginning
+Insert at the end
+Insert at a specified position
+Delete from the beginning
+Delete from the end
+Delete from a specified position
+Exit
+
+
+*****Usage*****
+Run the program.
+Select an option from the menu by entering the corresponding number.
+Follow the prompts to input data as needed for each operation.
